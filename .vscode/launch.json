@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio",
+            "request": "launch",
+            "mainClass": "Exercicio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Programa",
+            "request": "launch",
+            "mainClass": "Programa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program2",
+            "request": "launch",
+            "mainClass": "Program2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "Program"
+        }
+    ]
+}
